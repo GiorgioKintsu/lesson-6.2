@@ -1,0 +1,135 @@
+.header{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 11px 0 9px 20px;
+}
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigatsia{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 92px;
+}
+.nav-li{
+	display: inline-block;
+	margin-right: 25px;
+}
+.profileicon{
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 40px;
+}
+body{
+	padding-top: 50px;
+	/*color: #F6F8F9;*/
+}
+/*first section*/
+.maincontainer{
+	width: 1160px;
+	margin: 0 auto;
+}
+.firsttitle{
+	font-size: 24px;
+	color: #202124;
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 40px;
+
+}
+.trendingpart{
+	width: 360px;
+	display: inline-block;
+}
+.imagepart{
+	position: relative;
+}
+.imagepart img{
+	width: 360px;
+	height: 180px;
+}
+.magna{
+	font-size: 16px;
+	color: #fff;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+}
+.paragraph{
+	font-size: 13px;
+	color: #A6ADB4;
+	margin-top: 66px;
+	margin-left: 40px;
+	width: 280px;
+}
+.timeicon{
+	width: 16px;
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+	vertical-align: middle;
+}
+.time{
+	color: #A6ADB4;
+	font-size: 13px;
+	width: 43px;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 11px;
+	margin-bottom: 40px;
+	vertical-align: middle;
+
+}
+.trendingpartmiddle{
+	width: 360px;
+	display: inline-block;
+	margin-left: 35px;
+	margin-right: 35px;
+}
+.secondtitle{
+	font-size: 24px;
+	color: #202124;
+	text-transform: uppercase;
+	margin-top: 58px;
+	margin-bottom: 40px;
+
+}
+/*secondsection*/
+/*firs side*/
+.imagebox{
+	width: 760px;
+	display: inline-block;
+	position: relative;
+}
+.image3{
+	width: 760px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.imagesxva{
+	margin-top: 470px;
+	width: 760px;
+	position: absolute;
+	left: 0;
+}
+.onimage{
+	font-size: 16;
+	color: #fff;
+	position: absolute;
+	top: 194px;
+	left: 308px;
+}
+/*second side*/
+.otherimagebox{
+	width: 300px;
+	display: inline-block;
+}
+.otherimagebox img{
+	display: inline-block;
+	width: 300px;
+}
