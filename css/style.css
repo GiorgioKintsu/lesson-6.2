@@ -6,8 +6,10 @@
 	padding: 11px 0 9px 20px;
 }
 .logo{
+	font-size: 11px;
 	display: inline-block;
 	vertical-align: middle;
+	font-family: 'Poppins-extra';
 }
 .navigatsia{
 	display: inline-block;
@@ -15,8 +17,10 @@
 	margin-left: 92px;
 }
 .nav-li{
+	font-size: 11px;
 	display: inline-block;
 	margin-right: 25px;
+	font-family: 'Poppins-extra';
 }
 .profileicon{
 	display: inline-block;
@@ -38,6 +42,7 @@ body{
 	text-transform: uppercase;
 	margin-top: 25px;
 	margin-bottom: 40px;
+	font-family: 'Poppins';
 
 }
 .trendingpart{
@@ -57,6 +62,7 @@ body{
 	position: absolute;
 	top: 28px;
 	left: 40px;
+	font-family: 'Poppins';
 }
 .paragraph{
 	font-size: 13px;
@@ -64,6 +70,7 @@ body{
 	margin-top: 66px;
 	margin-left: 40px;
 	width: 280px;
+	font-family: 'Poppins';
 }
 .timeicon{
 	width: 16px;
@@ -82,6 +89,7 @@ body{
 	margin-top: 11px;
 	margin-bottom: 40px;
 	vertical-align: middle;
+	
 
 }
 .trendingpartmiddle{
@@ -96,6 +104,7 @@ body{
 	text-transform: uppercase;
 	margin-top: 58px;
 	margin-bottom: 40px;
+	font-family: 'Poppins';
 
 }
 /*secondsection*/
@@ -103,33 +112,76 @@ body{
 .imagebox{
 	width: 760px;
 	display: inline-block;
-	position: relative;
+	vertical-align: top;
 }
 .image3{
 	width: 760px;
-	position: absolute;
-	top: 0;
-	left: 0;
+	position: relative;
 }
 .imagesxva{
-	margin-top: 470px;
+	margin-top: 40px;
 	width: 760px;
-	position: absolute;
-	left: 0;
+}
+.imagemesame{
+	position: relative;
 }
 .onimage{
-	font-size: 16;
-	color: #fff;
+	font-size: 16px;
+	color: #ffffff;
 	position: absolute;
 	top: 194px;
 	left: 308px;
+	font-family: 'Poppins-semi';
 }
 /*second side*/
 .otherimagebox{
 	width: 300px;
 	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
 }
-.otherimagebox img{
-	display: inline-block;
+.lastimage{
 	width: 300px;
+}
+.formargin{
+	margin-top: 102px;
+	margin-bottom: 102px;
+}
+/*footer*/
+.footer{
+	height: 200px;
+	margin-top: 37px;
+	background-color: #A6ADB4;
+	font-family: 'Poppins-semi';
+}
+.footerlogo{
+	font-size: 13px;
+	color:  #FFFFFF;
+	display: inline-block;
+	margin-top: 58px;
+	vertical-align: top;
+}
+.nav-footer{
+	font-size: 13px;
+	color: #CBD0D3;
+	width: 65px;
+	display: inline-block;
+	margin-top: 58px;
+	margin-left: 90px;
+	vertical-align: top;
+}
+.productad{
+	font-size: 11px;
+	color: #CBD0D3;
+	display: inline-block;
+	margin-top: 58px;
+	margin-left: 105px;
+	vertical-align: top;
+}
+.footerimages{
+	width: 160px;
+	display: inline-block;
+	margin-top: 58px;
+	margin-left: 110px;
+	vertical-align: top;
 }
